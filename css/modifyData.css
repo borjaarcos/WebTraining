@@ -1,0 +1,46 @@
+
+#forms{
+    text-align: center;
+}
+.nombre{
+    width: 350px;
+    margin-top: 20px;
+    height:30px;
+    font-size: 18px;
+
+    border-radius: 8px;
+}
+.correo{
+    width: 350px;
+    margin-top: 20px;
+    height:30px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+.contrasenya{
+    width: 155px;
+    margin-top: 20px;
+    height:30px;
+    font-size: 18px;
+    border-radius: 8px;
+}
+#button2{
+    position:relative;
+    width:408px;
+    height:30px;
+    background-color: #5b72a9;
+    border: 1px solid #999;
+    border-color:#8b9dc3 #2f477a #29447e #1a356e;
+    -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, .1);
+    cursor:pointer;
+    font-size:18px;
+    font-weight:bold;
+    text-align:center;
+    color:#fff;
+    margin-top: 10px;
+}
+
+span{
+    font-size: 18px;
+    font-family: 'Noto Sans', sans-serif;
+}
